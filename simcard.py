@@ -1,0 +1,3 @@
+import pysim
+
+yes.getImsi()
